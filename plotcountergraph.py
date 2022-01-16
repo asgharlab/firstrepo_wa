@@ -17,3 +17,4 @@ kashti = sns.load_dataset ("titanic")
 # p1.set_title ("Plot for Counting")
 # p1.set_title("Sample Count Plot")
 # plt.show()
+# added few lines
